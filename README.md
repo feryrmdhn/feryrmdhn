@@ -1,7 +1,5 @@
 # About Me:
-I'm currently working as Front-end Engineer and I love it. </br>
-Btw..
-I also study about data, and interested in AI or ML
+I am a man
 
 
 ## 🌐 Socials
