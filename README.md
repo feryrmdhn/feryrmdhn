@@ -18,6 +18,8 @@
   <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="googlecloud logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" height="32" alt="googlecloud logo"  />
 </div>
 
 ###
