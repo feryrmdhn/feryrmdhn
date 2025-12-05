@@ -1,4 +1,4 @@
-<p align="left">Keep Learning!</p>
+<p align="left">Love this stack!</p>
 
 ###
 
@@ -20,13 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="googlecloud logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" height="32" alt="googlecloud logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feryrmdhn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=yeblu&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feryrmdhn&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
